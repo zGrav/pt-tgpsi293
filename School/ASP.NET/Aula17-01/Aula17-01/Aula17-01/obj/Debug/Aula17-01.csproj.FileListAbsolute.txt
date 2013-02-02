@@ -1,0 +1,9 @@
+c:\users\0103629\documents\visual studio 2010\Projects\Aula17-01\Aula17-01\bin\Aula17-01.dll
+c:\users\0103629\documents\visual studio 2010\Projects\Aula17-01\Aula17-01\bin\Aula17-01.pdb
+c:\users\0103629\documents\visual studio 2010\Projects\Aula17-01\Aula17-01\obj\Debug\ResolveAssemblyReference.cache
+c:\users\0103629\documents\visual studio 2010\Projects\Aula17-01\Aula17-01\obj\Debug\Aula17-01.dll
+c:\users\0103629\documents\visual studio 2010\Projects\Aula17-01\Aula17-01\obj\Debug\Aula17-01.pdb
+C:\Users\David\Downloads\Aula17-01\Aula17-01\Aula17-01\obj\Debug\Aula17-01.dll
+C:\Users\David\Downloads\Aula17-01\Aula17-01\Aula17-01\bin\Aula17-01.dll
+C:\Users\David\Downloads\Aula17-01\Aula17-01\Aula17-01\bin\Aula17-01.pdb
+C:\Users\David\Downloads\Aula17-01\Aula17-01\Aula17-01\obj\Debug\Aula17-01.pdb
