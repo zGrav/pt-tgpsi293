@@ -1,0 +1,168 @@
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+U:\2o Ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0103629\Desktop\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1_ProgDebug.resources
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Old\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\Backup M2\PSI\Prog\Old\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\Backup M2\PSI\Prog\Old\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

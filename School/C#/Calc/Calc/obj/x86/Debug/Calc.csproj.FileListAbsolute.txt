@@ -1,0 +1,8 @@
+C:\Users\zGrav\Desktop\Calc\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\zGrav\Desktop\Calc\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\zGrav\Desktop\Calc\Calc\Calc\obj\x86\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\zGrav\Desktop\Calc\Calc\Calc\obj\x86\Debug\Calc.Form1.resources
+C:\Users\zGrav\Desktop\Calc\Calc\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+C:\Users\zGrav\Desktop\Calc\Calc\Calc\obj\x86\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\zGrav\Desktop\Calc\Calc\Calc\obj\x86\Debug\Calc.exe
+C:\Users\zGrav\Desktop\Calc\Calc\Calc\obj\x86\Debug\Calc.pdb

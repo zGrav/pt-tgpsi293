@@ -1,0 +1,416 @@
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\UNOLibs.Net.dll
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\'^-^ERP^-^'\Desktop\MSGCLNT\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\0104289\Desktop\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\0104289\Desktop\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\0104289\Desktop\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.exe
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.xml
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.pdb
+Z:\msgclnt2\msgclnt\bin\Debug\msgclnt.exe
+Z:\msgclnt2\msgclnt\bin\Debug\msgclnt.pdb
+Z:\msgclnt2\msgclnt\bin\Debug\msgclnt.xml
+Z:\msgclnt2\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+Z:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+Z:\msgclnt2\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\msgclnt2\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.exe
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.xml
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.pdb
+U:\msgclnt2\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+U:\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+U:\msgclnt2\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\msgclnt2\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\'^-^ERP^-^'\Downloads\msgclnt2\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0104289\Desktop\msgclnt2\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.exe
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.xml
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.pdb
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\bin\Debug\msgclnt.exe
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\bin\Debug\msgclnt.pdb
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\bin\Debug\msgclnt.xml
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Projecto Tecnologico\msgclnt2.2\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.2\msgclnt\obj\x86\Debug\msgclnt.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0104289\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt2.3\msgclnt\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+C:\Users\0104289\Desktop\msgclnt\msgclnt\bin\Debug\msgclnt.exe.config
+C:\Users\0104289.COOPTECNICA\Desktop\msgclnt\msgclnt\bin\Debug\msgclnt.exe.config
+C:\Users\0104289\Desktop\msgclnt\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\bin\Debug\msgclnt.exe.config
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgclnt\msgclnt\bin\Debug\msgclnt.exe.config
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\bin\Debug\msgclnt.exe.config
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\bin\Debug\msgclnt.exe.config
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\bin\Debug\msgclnt.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\bin\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\bin\Debug\msgclnt.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Client\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe.config
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0103629\Desktop\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe.config
+C:\Users\0103629\Desktop\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0103629\Desktop\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0103629\Desktop\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe.config
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.About.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.About.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Splash.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Splash.resources
+C:\Users\0103629\Desktop\Client\msgclnt\bin\Debug\msgclnt.exe.config
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.exe
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.xml
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.pdb
+C:\Users\0103629\Desktop\Client\msgclnt\bin\Debug\msgclnt.exe
+C:\Users\0103629\Desktop\Client\msgclnt\bin\Debug\msgclnt.pdb
+C:\Users\0103629\Desktop\Client\msgclnt\bin\Debug\msgclnt.xml
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.About.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\msgclnt.Splash.resources
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0103629\Desktop\Client\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Browser.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe.config
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.exe
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.xml
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Browser.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.read.79.tlog
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.pdb
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.xml
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.About.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Browser.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Splash.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.read.79.tlog
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.About.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.Browser.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\msgclnt.Splash.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Client\msgclnt\obj\x86\Debug\GenerateResource.read.79.tlog
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe.config
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.exe
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.xml
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.pdb
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.exe
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.pdb
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\bin\Debug\msgclnt.xml
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.About.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Browser.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Files.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Filesv2.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Main.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Resources.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Preferences.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.ReceiveFiles.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.RSS.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\msgclnt.Splash.resources
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.read.79.tlog
+D:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Client\msgclnt\obj\x86\Debug\GenerateResource.write.1.tlog

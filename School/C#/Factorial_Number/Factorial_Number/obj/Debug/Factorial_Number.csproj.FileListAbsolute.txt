@@ -1,0 +1,7 @@
+C:\Users\zGrav\AppData\Local\Temporary Projects\Factorial_Number\bin\Debug\Factorial_Number.exe
+C:\Users\zGrav\AppData\Local\Temporary Projects\Factorial_Number\bin\Debug\Factorial_Number.pdb
+C:\Users\zGrav\AppData\Local\Temporary Projects\Factorial_Number\obj\Debug\Factorial_Number.csprojResolveAssemblyReference.cache
+C:\Users\zGrav\AppData\Local\Temporary Projects\Factorial_Number\obj\Debug\Factorial_Number.exe
+C:\Users\zGrav\AppData\Local\Temporary Projects\Factorial_Number\obj\Debug\Factorial_Number.pdb
+C:\Users\zGrav\Desktop\Factorial_Number\Factorial_Number\obj\Debug\Factorial_Number.exe
+C:\Users\zGrav\Desktop\Factorial_Number\Factorial_Number\obj\Debug\Factorial_Number.pdb

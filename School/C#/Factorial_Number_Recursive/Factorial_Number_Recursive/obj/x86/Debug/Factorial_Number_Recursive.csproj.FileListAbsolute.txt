@@ -1,0 +1,5 @@
+c:\users\0103629\documents\visual studio 2010\Projects\Factorial_Number_Recursive\Factorial_Number_Recursive\bin\Debug\Factorial_Number_Recursive.exe
+c:\users\0103629\documents\visual studio 2010\Projects\Factorial_Number_Recursive\Factorial_Number_Recursive\bin\Debug\Factorial_Number_Recursive.pdb
+c:\users\0103629\documents\visual studio 2010\Projects\Factorial_Number_Recursive\Factorial_Number_Recursive\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\0103629\documents\visual studio 2010\Projects\Factorial_Number_Recursive\Factorial_Number_Recursive\obj\x86\Debug\Factorial_Number_Recursive.exe
+c:\users\0103629\documents\visual studio 2010\Projects\Factorial_Number_Recursive\Factorial_Number_Recursive\obj\x86\Debug\Factorial_Number_Recursive.pdb

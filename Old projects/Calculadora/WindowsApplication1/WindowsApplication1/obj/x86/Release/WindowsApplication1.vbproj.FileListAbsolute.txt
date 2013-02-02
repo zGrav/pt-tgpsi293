@@ -1,0 +1,99 @@
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\ana isabel\Desktop\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+E:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+H:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+K:\2o ano\PSI\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.2.tlog
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.2.tlog
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+K:\2o ano\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.2.tlog
+I:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+L:\Backup M2\PSI\Calc proj & backups\Calculadora\WindowsApplication1\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog

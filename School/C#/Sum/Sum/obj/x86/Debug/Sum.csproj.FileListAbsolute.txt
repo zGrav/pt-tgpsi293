@@ -1,0 +1,9 @@
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\bin\Debug\Sum.exe
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\bin\Debug\Sum.pdb
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\Sum.Form1.resources
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\Sum.Properties.Resources.resources
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\Sum.exe
+c:\users\0103629\documents\visual studio 2010\Projects\Sum\Sum\obj\x86\Debug\Sum.pdb

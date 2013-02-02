@@ -1,0 +1,186 @@
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\bin\Debug\msgsv.exe
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\bin\Debug\msgsv.pdb
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\bin\Debug\msgsv.xml
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\obj\x86\Debug\msgsv.Resources.resources
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\zGrav\AppData\Local\Temporary Projects\msgsv\obj\x86\Debug\msgsv.pdb
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zGrav\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0103629\Desktop\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0103629\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zGrav\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.exe
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.pdb
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\bin\Debug\msgsv.xml
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.Resources.resources
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\0104289.COOPTECNICA\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0104289\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\0104289\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\0104289\Desktop\msgsv\msgsv\msgsv\obj\x86\Debug\msgsv.pdb
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\obj\x86\Debug\msgsv.pdb
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\bin\Debug\msgsv.exe
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\bin\Debug\msgsv.pdb
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\bin\Debug\msgsv.xml
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\obj\x86\Debug\msgsv.Resources.resources
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zGrav\Documents\GitHub\pt-tgpsi293\Server\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\obj\x86\Debug\msgsv.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\obj\x86\Debug\msgsv.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\obj\x86\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\bin\Debug\msgsv.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\bin\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\bin\Debug\msgsv.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\obj\x86\Debug\msgsv.Resources.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Server\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.exe
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.pdb
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.xml
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.Resources.resources
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\0103629\Desktop\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.exe
+C:\Users\0103629\Desktop\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.xml
+C:\Users\0103629\Desktop\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.exe
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.pdb
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.xml
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.Resources.resources
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.exe
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.xml
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.pdb
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.exe
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.pdb
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\bin\Debug\msgsv.xml
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\msgsv.Resources.resources
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Backup M2\PSI\Prog\Projecto Tecnologico\Backup no aSync\Server\msgsv\obj\x86\Debug\GenerateResource.write.1.tlog

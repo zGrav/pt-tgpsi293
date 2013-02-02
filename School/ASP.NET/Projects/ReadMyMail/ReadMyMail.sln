@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ReadMyMail", "..\..\WebSites\ReadMyMail\", "{B1F7CCEF-BD43-448C-B465-08AFC304FAFF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/ReadMyMail"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\ReadMyMail\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ReadMyMail\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ReadMyMail"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\ReadMyMail\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ReadMyMail\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49638"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F7CCEF-BD43-448C-B465-08AFC304FAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F7CCEF-BD43-448C-B465-08AFC304FAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
