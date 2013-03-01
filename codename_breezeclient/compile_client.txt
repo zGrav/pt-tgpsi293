@@ -1,0 +1,2 @@
+dx --dex --output=classes.dex codename_breezeclient.jar
+aapt add codename_breezeclient.jar classes.dex

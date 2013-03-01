@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>z.codename_breeze</groupId>
+	<artifactId>codename_breeze</artifactId>
+	<version>0.0.1</version>
+	<url>http://url</url>
+	<name>Codename Breeze</name>
+	<organization>
+		<name>z</name>
+	</organization>
+	
+	<properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    
+    
+    <dependencies>
+    	<dependency>
+    		<groupId>com.google.android</groupId>
+			<artifactId>ddmlib</artifactId>
+			<version>3.1.0</version>
+    	</dependency>
+    </dependencies>
+    
+	<build>
+		<finalName>${project.artifactId}</finalName>
+		<plugins>
+		
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<encoding>${project.build.sourceEncoding} 
+					</encoding>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+				<executions>
+					<execution>
+						<id>compile</id>
+						<phase>compile</phase>
+						<goals>
+							<goal>compile</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>webstart-maven-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>jnlp</id>
+						<goals>
+							<goal>jnlp-inline</goal>
+						</goals>
+						<phase>package</phase>
+						<configuration>
+							<outputDirectory>target</outputDirectory>
+							<excludeTransitive>false</excludeTransitive>
+							<libPath>lib</libPath>
+							<jnlp>
+								<inputTemplateResourcePath>${project.basedir}</inputTemplateResourcePath>
+								<inputTemplate>src/main/resources/jnlp/template.vm</inputTemplate>
+								<outputFile>${project.artifactId}.jnlp</outputFile>
+								<mainClass>z.codename_breeze.Main</mainClass>
+							</jnlp>
+							<sign>
+								<keystore>codename_breeze</keystore>
+								<keypass>codename_breeze</keypass> 
+								<storepass>codename_breeze</storepass> 
+								<alias>codename_breeze</alias>
+								<dnameCn>fillme</dnameCn>
+					            <dnameOu>fillme</dnameOu>
+					            <dnameO>fillme</dnameO>
+					            <dnameL>fillme</dnameL>
+					            <dnameSt>fillme</dnameSt>
+					            <dnameC>fillme</dnameC>
+								<verify>true</verify> 
+								<keystoreConfig>
+									<delete>true</delete> 
+									<gen>true</gen>    
+								</keystoreConfig>
+							</sign>
+							<gzip>true</gzip>
+							<outputJarVersions>false</outputJarVersions>
+							<verbose>false</verbose>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			</plugins>
+	</build>
+</project>

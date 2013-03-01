@@ -1,0 +1,4 @@
+1/28/2013 4:56:09 PM - Logging started.
+
+1/28/2013 4:56:09 PM - Listening for connections on ports: 8888 and 8889
+

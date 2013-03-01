@@ -1,0 +1,45 @@
+D:\Coding\C#\ESA_AC\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC\LPO\bin\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\ESA_AC\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.GameList.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.RegisterForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\LPO.ReportForm.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC -fileserver test\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver test\LPO\bin\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC -fileserver test\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\ESA_AC -fileserver test\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.GameList.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.RegisterForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\LPO.ReportForm.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC -fileserver test\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.dll
+D:\Coding\C#\ESA_AC -fileserver version\LPO\bin\Release\ProcessHelper.pdb
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.GameList.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoadingForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.LoginForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.RegisterForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.MainForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\LPO.ReportForm.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.Properties.Resources.resources
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csproj.GenerateResource.Cache
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.exe
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.pdb
+D:\Coding\C#\ESA_AC -fileserver version\LPO\obj\x86\Release\ESA_AC.csprojResolveAssemblyReference.cache

@@ -1,0 +1,45 @@
+tofix:
+stream acting up, not getting files correctly, sometimes. buffer/stream issue itself?
+
+Misc:
+changed report form to showdialog //mainform.cs
+moved label to try content //mainform.cs
+changed gamereport append back to true.
+
+Exceptions fixes:
+moved try on mainform to the beginning
+moved createftpdir(gamefolder) back to the beginning of runtime
+Exception on Core.cs, LoginForm.cs
+
+New code:
+if game is already runnning without anticheat, kills old game process.. //modified mainform.cs
+
+fileserver:
+client
+exception handling - done
+clean/organize code - done
+changed ftp code to fileserver code. - done
+delete ftphelper, added requesthelper - done
+textbox for match id. //on ac_log files np + gameruntime. - done
+
+server
+console/commands? - not sure if needed.
+faster processing? - seems to be good now
+stresstest? - seems to be working lan/internet
+clean/organize code - done
+kinda lost track, added logging
+
+made small stresstester
+
+need more ideas for ac... -
+added driver list
+can't do dll due to 32bit proc dll :|
+
+WHEN EVERYTHING IS DONE, DON'T FORGET TO DO AUTOUPDATE CODE.
+
+Needed to run AC properly:
+C++ 2010 redist 86
+http://www.microsoft.com/en-us/download/details.aspx?id=5555
+
+C++ 2010 redist 64
+http://www.microsoft.com/en-us/download/details.aspx?id=14632

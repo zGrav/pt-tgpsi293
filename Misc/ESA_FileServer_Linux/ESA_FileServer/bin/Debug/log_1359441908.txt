@@ -1,0 +1,10 @@
+1/29/2013 6:45:08 AM - Logging started.
+
+1/29/2013 6:45:08 AM - Listening for connections on ports: 8888 and 8889
+
+1/29/2013 6:45:08 AM - Folder already exists - Folder name: /home/anticheat_logs
+
+1/29/2013 6:45:08 AM - Saving files in: /home/anticheat_logs
+
+1/29/2013 6:45:08 AM - Bootup complete.
+

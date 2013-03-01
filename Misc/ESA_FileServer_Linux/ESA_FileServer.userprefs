@@ -1,0 +1,13 @@
+﻿<Properties>
+  <AuthorInfo Name="David &quot;z&quot; Samuel" Email="zgrav@null.net" Copyright="z" Company="" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ESA_FileServer/Main.cs">
+    <Files>
+      <File FileName="ESA_FileServer/Main.cs" Line="19" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
