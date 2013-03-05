@@ -20,6 +20,8 @@ chmod 777 ./* */
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
+
+import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
 import z.codename_breeze.program.deviceInterp;
@@ -57,9 +59,22 @@ public class Main extends swingApp {
 		
 		 splash.setText("Grabbing devices.");
 		 splash.setVisible(true);
-		
-		//starts adb, todo: open file dialog
 		 
+		 JFileChooser fc = new JFileChooser();
+		 fc.setDialogTitle("Navigate to SDK/platform-tools path");
+		 
+		 int returnVal = fc.showOpenDialog(mf);
+		 
+		 while (returnVal != JFileChooser.APPROVE_OPTION || fc.getSelectedFile().toString().contains("adb") == false) {
+		 		JOptionPane.showMessageDialog(null, "You need to select ADB executable! \n Program terminated.", "Error", JOptionPane.ERROR_MESSAGE);
+		 		System.exit(0);
+		 		return;
+		 }
+		 
+		//starts adb
+		 ProcessBuilder p = new ProcessBuilder(fc.getSelectedFile().getAbsolutePath(), " devices");
+	    p.start();
+	    
 		AndroidDebugBridge.init(false);
 		AndroidDebugBridge newBridge = AndroidDebugBridge.createBridge(); //creates ADB connection
 		waitforList(newBridge); //waits for our list to be available
@@ -135,7 +150,6 @@ public class Main extends swingApp {
 		interp.start();
 		mf.setInterp(interp);	
 	}
-
 	
 	private void waitforList(AndroidDebugBridge newBridge) {
 		int count = 0;
