@@ -17,11 +17,12 @@ chmod 777 /data/dalvik-cache
 cd /data/dalvik-cache
 chmod 777 ./* */
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
 import z.codename_breeze.program.deviceInterp;
@@ -30,6 +31,7 @@ import z.codename_breeze.gui.showDevices;
 import z.codename_breeze.gui.mainFrame;
 import z.codename_breeze.gui.showSplash;
 import z.codename_breeze.dataParser;
+import z.codename_breeze.gui.adbChooser;
 
 import com.android.ddmlib.AndroidDebugBridge;
 import com.android.ddmlib.IDevice;
@@ -54,27 +56,39 @@ public class Main extends swingApp {
 	
 	private void boot(showSplash splash) throws IOException {
 		
+		System.out.println("Program bootup.");
+		
 		dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,0);
 		dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,1);
 		
-		 splash.setText("Grabbing devices.");
-		 splash.setVisible(true);
+		 String OS = null;
+		 OS = System.getProperty("os.name");
 		 
-		 JFileChooser fc = new JFileChooser();
-		 fc.setDialogTitle("Navigate to SDK/platform-tools path");
-		 
-		 int returnVal = fc.showOpenDialog(mf);
-		 
-		 while (returnVal != JFileChooser.APPROVE_OPTION || fc.getSelectedFile().toString().contains("adb") == false) {
-		 		JOptionPane.showMessageDialog(null, "You need to select ADB executable! \n Program terminated.", "Error", JOptionPane.ERROR_MESSAGE);
-		 		System.exit(0);
-		 		return;
+		 if (OS.startsWith("Windows")) 
+		 {
+			 
+			 try {
+				if (adbChooser.isADBrunning() == false) {
+					if (adbChooser.checkADBpath() == false) {
+					
+				 adbChooser chooser = new adbChooser();
+ 
+				 //starts adb
+				 ProcessBuilder p = new ProcessBuilder(adbChooser.fc.getSelectedFile().getAbsolutePath(), "devices");
+				 p.start();
+				 
+				 String temp = System.getProperty("java.io.tmpdir") + "\\codename_breezeadbpath.txt";
+		    	 BufferedWriter bw = new BufferedWriter(new FileWriter(temp));
+		    	 bw.write(adbChooser.fc.getSelectedFile().getAbsolutePath());
+		    	 bw.close();
+				 }
+				}
+			} catch (Exception e) {}
 		 }
 		 
-		//starts adb
-		 ProcessBuilder p = new ProcessBuilder(fc.getSelectedFile().getAbsolutePath(), " devices");
-	    p.start();
-	    
+		splash.setText("Grabbing devices.");
+		splash.setVisible(true);
+		
 		AndroidDebugBridge.init(false);
 		AndroidDebugBridge newBridge = AndroidDebugBridge.createBridge(); //creates ADB connection
 		waitforList(newBridge); //waits for our list to be available

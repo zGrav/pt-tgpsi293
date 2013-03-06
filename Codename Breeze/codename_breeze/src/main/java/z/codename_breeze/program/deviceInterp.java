@@ -20,6 +20,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 
+import com.android.ddmlib.AndroidDebugBridge;
 import com.android.ddmlib.IDevice;
 
 public class deviceInterp {
@@ -37,6 +38,8 @@ public class deviceInterp {
 			try {
 				init(); //starts our interp
 			} catch (Exception e) {
+				System.out.println("An error has occured! See stacktrace above.");
+				System.exit(0);
 				throw new RuntimeException(e);
 			}
 		}
@@ -65,6 +68,7 @@ public class deviceInterp {
 	}
 
 	private static boolean killOld() { //terminates old interp if existant.
+
 		try {
 			Socket socket = new Socket("127.0.0.1", interpPort);
 			OutputStream outs = socket.getOutputStream();
@@ -102,7 +106,9 @@ public class deviceInterp {
 		}
 		try {
 			synchronized (getDevice) {
-				//todo: deviceforward
+				if (getDevice != null) {
+					getDevice.removeForward(interpPort, interpPort);
+				}
 			}
 		} catch (Exception ex) {
 			
@@ -162,16 +168,15 @@ public class deviceInterp {
 		
 		getDevice.createForward(interpPort, interpPort); //creates a portforward to our device and machine
 
-		if (killOld()) { //kills old interp if existent
+		if (killOld()) //kills old interp if existent
 			System.out.println("Old client terminated.");
-		}
 
 		pushClient(); //uploads our interpreter
 
 		Thread threadRunClient = new Thread("Running Client") { //launches our interpreter
 			public void run() {
 				try {
-					launchClient("" + interpPort + " debug");
+					launchClient("" + interpPort);
 				} catch (Exception e) {
 					e.printStackTrace();
 				}

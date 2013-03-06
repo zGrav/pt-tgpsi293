@@ -23,8 +23,9 @@ public class streamHelper {
 		try {
 			while(true) {
 				int data = in.read();
-				if(data <= -1)
+				if(data <= -1) {
 					break;
+				}
 				out.write(data);
 			}
 		} catch(IOException io) {
