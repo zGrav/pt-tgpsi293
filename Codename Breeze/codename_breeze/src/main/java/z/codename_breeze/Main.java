@@ -58,11 +58,13 @@ public class Main extends swingApp {
 		
 		System.out.println("Program bootup.");
 		
-		dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,0);
-		dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,1);
+		dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,null,0);
+		dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,null,1);
 		
 		 String OS = null;
 		 OS = System.getProperty("os.name");
+		 
+		 dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,OS,9);
 		 
 		 if (OS.startsWith("Windows")) 
 		 {
@@ -108,19 +110,19 @@ public class Main extends swingApp {
 			
 			getDevice = grabDevices[0];
 			
-			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,3);
-			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),grabDevices[0].toString(),null,null,null,5);
+			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,null,3);
+			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),grabDevices[0].toString(),null,null,null,null,5);
 			
 			if (grabDevices[0].toString().contains("emulator")) {
-				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),grabDevices[0].toString(),"AVD Emulator",null,null,6);
+				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),grabDevices[0].toString(),"AVD Emulator",null,null,null,6);
 			} else if (grabDevices[0].toString().contains(":")) {
-				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),grabDevices[0].toString(),"Wireless Connection",null,null,6);
+				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),grabDevices[0].toString(),"Wireless Connection",null,null,null,6);
 			} else {
-				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),grabDevices[0].toString(),"USB Connection",null,null,6);
+				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),grabDevices[0].toString(),"USB Connection",null,null,null,6);
 			}
 			
-			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,getDevice.getProperty(IDevice.PROP_BUILD_VERSION),null, 7);
-			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,getDevice.getProperty(IDevice.PROP_BUILD_API_LEVEL),8);
+			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,getDevice.getProperty(IDevice.PROP_BUILD_VERSION),null,null, 7);
+			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,getDevice.getProperty(IDevice.PROP_BUILD_API_LEVEL),null,8);
 		
 		} else {
 			showDevices sd = new showDevices(grabDevices);
@@ -130,19 +132,19 @@ public class Main extends swingApp {
 				
 			if (getDevice != null) 
 			{
-			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,3);
-			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),getDevice.toString(),null,null,null,5);
+			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,null,3);
+			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),getDevice.toString(),null,null,null,null,5);
 				
 			if (getDevice.toString().contains("emulator")) {
-				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),getDevice.toString(),"AVD Emulator",null,null,6);
+				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),getDevice.toString(),"AVD Emulator",null,null,null,6);
 			} else if (getDevice.toString().contains(":")) {
-				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),getDevice.toString(),"Wireless Connection",null,null,6);
+				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),getDevice.toString(),"Wireless Connection",null,null,null,6);
 			} else {
-				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),getDevice.toString(),"USB Connection",null,null,6);
+				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),getDevice.toString(),"USB Connection",null,null,null,6);
 			}
 			
-			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,getDevice.getProperty(IDevice.PROP_BUILD_VERSION),null, 7);
-			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,getDevice.getProperty(IDevice.PROP_BUILD_API_LEVEL),8);
+			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,getDevice.getProperty(IDevice.PROP_BUILD_VERSION),null,null, 7);
+			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,getDevice.getProperty(IDevice.PROP_BUILD_API_LEVEL),null,8);
 			}
 		}
 		
@@ -192,12 +194,12 @@ public class Main extends swingApp {
 		
 		if(getDevice != null) {
 			synchronized (getDevice) {
-				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,4);
+				dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,null,4);
 				AndroidDebugBridge.terminate(); //terminates our device connection
 			}
 		}
 		
-		dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,2);
+		dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,null,2);
 		
 		System.out.println("Program terminated.");
 		super.close();

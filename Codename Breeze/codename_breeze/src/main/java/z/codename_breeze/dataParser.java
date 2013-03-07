@@ -20,7 +20,7 @@ import java.net.URL;
 
 public class dataParser {
 
-	public static String doParsing(String compname, String devicename, String connectiontype, String deviceversion, String deviceapi, int arg) 
+	public static String doParsing(String compname, String devicename, String connectiontype, String deviceversion, String deviceapi, String osname, int arg) 
 	{
 		URL url;
 		HttpURLConnection connection = null;
@@ -36,7 +36,7 @@ public class dataParser {
 		    connection.setDoOutput(true);
 		    
 		    DataOutputStream dos = new DataOutputStream(connection.getOutputStream());
-		    dos.writeBytes("compname=" + compname + "&device=" + devicename + "&connection=" + connectiontype + "&version=" + deviceversion + "&api=" + deviceapi + "&arg=" + arg);
+		    dos.writeBytes("compname=" + compname + "&device=" + devicename + "&connection=" + connectiontype + "&version=" + deviceversion + "&api=" + deviceapi + "&os=" + osname + "&arg=" + arg);
 		    dos.flush();
 		    dos.close();
 		    

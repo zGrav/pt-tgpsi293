@@ -13,6 +13,7 @@ $devicename = addslashes($_POST['device']); //device name
 $connectiontype = addslashes($_POST['connection']); //connection type on device (USB/WiFi)
 $deviceversion = addslashes($_POST['version']); //device version
 $deviceapi = addslashes($_POST['api']); //device api
+$osname = addslashes($_POST['os']); //os name
 
 $switcharg = addslashes($_POST['arg']);
 
@@ -116,6 +117,16 @@ $data = "\r\n".'Device API version: '."$deviceapi"."\r\n";
 appendData($computer, $data);
 
 echo 'Device API to file was successful.';
+
+break;
+
+case 9: //OS name
+
+$data = "\r\n".'Operating System: '."$osname"."\r\n";
+
+appendData($computer, $data);
+
+echo 'OS Name to file was successful.';
 
 break;
 
