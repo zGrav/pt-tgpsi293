@@ -79,7 +79,7 @@
        
       new Main(port, isDebugging).execute();
      } catch (Exception ex) {
-      ex.printStackTrace();
+      //ex.printStackTrace();
      }
    }
  }

@@ -67,23 +67,6 @@ public class deviceInterp {
 		}
 	}
 
-	private static boolean killOld() { //terminates old interp if existant.
-
-		try {
-			Socket socket = new Socket("127.0.0.1", interpPort);
-			OutputStream outs = socket.getOutputStream();
-			outs.write("quit\n".getBytes());
-			outs.flush();
-			outs.close();
-			socket.getInputStream().close();
-			socket.close();
-			return true;
-		} catch (Exception ex) {
-			
-		}
-		return false;
-	}
-
 	public void close() { //terminates our connection and buffers.
 		try {
 			if (out != null) {
@@ -107,7 +90,7 @@ public class deviceInterp {
 		try {
 			synchronized (getDevice) {
 				if (getDevice != null) {
-					getDevice.removeForward(interpPort, interpPort);
+					//getDevice.removeForward(interpPort, interpPort);
 				}
 			}
 		} catch (Exception ex) {
@@ -167,10 +150,7 @@ public class deviceInterp {
 	private void init() throws UnknownHostException, IOException, InterruptedException {
 		
 		getDevice.createForward(interpPort, interpPort); //creates a portforward to our device and machine
-
-		if (killOld()) //kills old interp if existent
-			System.out.println("Old client terminated.");
-
+		
 		pushClient(); //uploads our interpreter
 
 		Thread threadRunClient = new Thread("Running Client") { //launches our interpreter
