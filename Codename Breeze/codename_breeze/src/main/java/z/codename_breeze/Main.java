@@ -96,8 +96,6 @@ public class Main extends swingApp {
 		waitforList(newBridge); //waits for our list to be available
 
 		IDevice grabDevices[] = newBridge.getDevices(); //passes list
-		
-		splash.setVisible(false);
 
 		// device prompt
 		if (grabDevices.length == 0) {
@@ -125,6 +123,8 @@ public class Main extends swingApp {
 			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,getDevice.getProperty(IDevice.PROP_BUILD_API_LEVEL),null,8);
 		
 		} else {
+			splash.setVisible(false);
+			
 			showDevices sd = new showDevices(grabDevices);
 			sd.setVisible(true);
 			
@@ -145,6 +145,8 @@ public class Main extends swingApp {
 			
 			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,getDevice.getProperty(IDevice.PROP_BUILD_VERSION),null,null, 7);
 			dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,getDevice.getProperty(IDevice.PROP_BUILD_API_LEVEL),null,8);
+			
+			splash.setVisible(true);
 			}
 		}
 		
@@ -153,14 +155,20 @@ public class Main extends swingApp {
 			return;
 		}
 		
+		// starts interp
+		 splash.setText("Starting device interpreter...");
+		 
+		 try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 		// shows device
 		mf = new mainFrame(getDevice);
 		mf.setTitle("Codename Breeze - "+getDevice);
 		mf.setVisible(true);
-		
-		// starts interp
-		 splash.setText("Starting device interpreter...");
-		 splash.setVisible(true);
 
 		interp = new deviceInterp(getDevice);
 		interp.start();
