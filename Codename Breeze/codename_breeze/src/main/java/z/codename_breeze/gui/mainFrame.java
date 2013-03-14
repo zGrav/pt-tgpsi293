@@ -28,6 +28,7 @@ import java.io.IOException;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JToolBar;
 
@@ -41,8 +42,12 @@ import z.codename_breeze.program.screenThread.screenCap;
 import com.android.ddmlib.IDevice;
 
 public class mainFrame extends JFrame {
-
+	
 	private showScreen devScreen = new showScreen(); //declares our device screen
+	private JToolBar topBar = new JToolBar(); //declares our top menu bar
+	private JButton btnAbout = new JButton("About");
+	private JButton btnShoutouts = new JButton("Shoutouts");
+	
 	private JToolBar hardKeys = new JToolBar(); //declares our "home, back" buttons
 	JScrollPane scroll;
 
@@ -129,6 +134,9 @@ public class mainFrame extends JFrame {
 	}
 
 	public void initialize() throws IOException {
+		topBar.setFocusable(false);
+		btnAbout.setFocusable(false);
+		btnShoutouts.setFocusable(false);
 		btnHome.setFocusable(false);
 		btnMenu.setFocusable(false);
 		btnVolUp.setFocusable(false);
@@ -155,10 +163,28 @@ public class mainFrame extends JFrame {
 		hardKeys.add(btnPhoneOff);
 		hardKeys.add(btnVolUp);
 		hardKeys.add(btnVolDown);
+		
+		btnShoutouts.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				JOptionPane.showMessageDialog(null, "Shoutouts to: \n Classmates and teachers that watched this project grow \n Family that gave me support \n My girlfriend for putting up with me <3 \n Some online mates that tested this since alpha. \n", "Codename Breeze - Shoutouts", JOptionPane.INFORMATION_MESSAGE);
+			}
+		});
+		
+		topBar.add(btnShoutouts);
+		
+		btnAbout.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				JOptionPane.showMessageDialog(null, "Version 0.9 - revision 3 - build date: 14/03/2013 \n For bug reports or ideas please contact via email: zgrav@null.net \n Thank you for trying out this software.", "Codename Breeze - About", JOptionPane.INFORMATION_MESSAGE);
+			}
+		});
+		
+		topBar.add(btnAbout);
 
 		setIconImage(Toolkit.getDefaultToolkit().getImage(getClass().getResource("/mainicon.png")));
 		setDefaultCloseOperation(3);
 		setLayout(new BorderLayout());
+		
+		add(topBar, BorderLayout.NORTH);
 		
 		add(hardKeys, BorderLayout.SOUTH);
 		

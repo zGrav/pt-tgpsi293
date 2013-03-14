@@ -26,7 +26,7 @@ public class dataParser {
 		HttpURLConnection connection = null;
 		
 		try {
-			url = new URL("http://localhost:7777/zgrav_pap/backoffice.php");
+			url = new URL("http://strikker.org/zgrav_pap/backoffice.php");
 			
 			connection = (HttpURLConnection)url.openConnection();
 			connection.setRequestMethod("POST");
