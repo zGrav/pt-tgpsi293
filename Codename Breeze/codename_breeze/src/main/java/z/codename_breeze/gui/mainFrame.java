@@ -38,6 +38,7 @@ import z.codename_breeze.program.motionMap;
 import z.codename_breeze.program.deviceInterp;
 import z.codename_breeze.program.keyConverter;
 import z.codename_breeze.program.screenThread.screenCap;
+import z.codename_breeze.gui.showDeviceInfo;
 
 import com.android.ddmlib.IDevice;
 
@@ -45,8 +46,9 @@ public class mainFrame extends JFrame {
 	
 	private showScreen devScreen = new showScreen(); //declares our device screen
 	private JToolBar topBar = new JToolBar(); //declares our top menu bar
-	private JButton btnAbout = new JButton("About");
-	private JButton btnShoutouts = new JButton("Shoutouts");
+	private JButton btnAbout = new JButton("About"); //top menu button
+	private JButton btnShoutouts = new JButton("Shoutouts"); //top menu button
+	private JButton btndevInfo = new JButton("Device Info"); //top menu button
 	
 	private JToolBar hardKeys = new JToolBar(); //declares our "home, back" buttons
 	JScrollPane scroll;
@@ -137,6 +139,7 @@ public class mainFrame extends JFrame {
 		topBar.setFocusable(false);
 		btnAbout.setFocusable(false);
 		btnShoutouts.setFocusable(false);
+		btndevInfo.setFocusable(false);
 		btnHome.setFocusable(false);
 		btnMenu.setFocusable(false);
 		btnVolUp.setFocusable(false);
@@ -164,9 +167,17 @@ public class mainFrame extends JFrame {
 		hardKeys.add(btnVolUp);
 		hardKeys.add(btnVolDown);
 		
+		btndevInfo.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				showDeviceInfo info = new showDeviceInfo(getDevice);
+			}
+		});
+		
+		topBar.add(btndevInfo);
+		
 		btnShoutouts.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				JOptionPane.showMessageDialog(null, "Shoutouts to: \n Classmates and teachers that watched this project grow \n Family that gave me support \n My girlfriend for putting up with me <3 \n Some online mates that tested this since alpha. \n", "Codename Breeze - Shoutouts", JOptionPane.INFORMATION_MESSAGE);
+				JOptionPane.showMessageDialog(null, "Shoutouts to: \n Classmates and teachers that watched this project grow \n Family that gave me support \n My girlfriend for putting up with me <3 \n Some online mates that tested this since 0.1", "Codename Breeze - Shoutouts", JOptionPane.INFORMATION_MESSAGE);
 			}
 		});
 		
@@ -174,7 +185,7 @@ public class mainFrame extends JFrame {
 		
 		btnAbout.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				JOptionPane.showMessageDialog(null, "Version 0.9 - revision 3 - build date: 14/03/2013 \n For bug reports or ideas please contact via email: zgrav@null.net \n Thank you for trying out this software.", "Codename Breeze - About", JOptionPane.INFORMATION_MESSAGE);
+				JOptionPane.showMessageDialog(null, "Version 0.9 - revision 5 - build date: 15/03/2013 \n For bug reports or ideas please contact via email: zgrav@null.net \n Thank you for trying out this software.", "Codename Breeze - About", JOptionPane.INFORMATION_MESSAGE);
 			}
 		});
 		

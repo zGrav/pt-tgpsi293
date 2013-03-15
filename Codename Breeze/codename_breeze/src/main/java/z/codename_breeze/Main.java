@@ -88,7 +88,7 @@ public class Main extends swingApp {
 			} catch (Exception e) {}
 		 }
 		 
-		splash.setText("Grabbing devices.");
+		splash.setText("Grabbing devices...");
 		splash.setVisible(true);
 		
 		AndroidDebugBridge.init(false);
@@ -153,6 +153,15 @@ public class Main extends swingApp {
 		if(getDevice == null) {
 			System.exit(0);
 			return;
+		}
+		
+		splash.setText("Grabbing device info...");
+		
+		 try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 		
 		// starts interp
