@@ -17,9 +17,11 @@ chmod 777 /data/dalvik-cache
 cd /data/dalvik-cache
 chmod 777 ./* */
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
@@ -64,8 +66,6 @@ public class Main extends swingApp {
 		 String OS = null;
 		 OS = System.getProperty("os.name");
 		 
-		 dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,OS,9);
-		 
 		 if (OS.startsWith("Windows")) 
 		 {
 			 
@@ -87,6 +87,29 @@ public class Main extends swingApp {
 				}
 			} catch (Exception e) {}
 		 }
+		 else if (OS.startsWith("Linux")) {
+			 String[] cmd = { "/bin/sh", "-c", "cat /etc/issue" };
+			 OS = "";
+			 
+			try {
+				Process p = Runtime.getRuntime().exec(cmd);
+				BufferedReader read = new BufferedReader(new InputStreamReader(p.getInputStream()));
+				
+				String line = "";
+				
+				while ((line = read.readLine()) != null) 
+					{				         
+					OS += line;
+					}
+				} catch (IOException e) {
+					
+					OS = "Linux";
+					
+					return;
+					}
+			} //todo mac
+		 
+		 dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,OS,9);
 		 
 		splash.setText("Grabbing devices...");
 		splash.setVisible(true);
