@@ -103,11 +103,36 @@ public class Main extends swingApp {
 					}
 				} catch (IOException e) {
 					
-					OS = "Linux";
+					OS = "Unknown Linux distribution";
 					
 					return;
 					}
-			} //todo mac
+			} 
+		 else if (OS.startsWith("Mac")) {
+			 String[] cmd = { "/bin/sh", "-c", "sw_vers" };
+			 OS = "";
+			 
+			try {
+				Process p = Runtime.getRuntime().exec(cmd);
+				BufferedReader read = new BufferedReader(new InputStreamReader(p.getInputStream()));
+				
+				String line = "";
+				
+				while ((line = read.readLine()) != null) 
+					{				         
+					OS += line + " ";
+					}
+				} catch (IOException e) {
+					
+					OS = "Unknown Mac OS X version";
+					
+					return;
+					}
+		 }
+		 
+		 else {
+			 OS = "Unknown";
+		 }
 		 
 		 dataParser.doParsing(InetAddress.getLocalHost().getHostName(),null,null,null,null,OS,9);
 		 

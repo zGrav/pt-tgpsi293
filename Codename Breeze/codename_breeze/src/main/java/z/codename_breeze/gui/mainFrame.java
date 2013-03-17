@@ -185,7 +185,7 @@ public class mainFrame extends JFrame {
 		
 		btnAbout.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				JOptionPane.showMessageDialog(null, "Version 0.9 - revision 6 - build date: 16/03/2013 \n For bug reports or ideas please contact via email: zgrav@null.net \n Thank you for trying out this software.", "Codename Breeze - About", JOptionPane.INFORMATION_MESSAGE);
+				JOptionPane.showMessageDialog(null, "Version 0.9 - revision 7 - build date: 17/03/2013 \n For bug reports or ideas please contact via email: zgrav@null.net \n Thank you for trying out this software.", "Codename Breeze - About", JOptionPane.INFORMATION_MESSAGE);
 			}
 		});
 		
