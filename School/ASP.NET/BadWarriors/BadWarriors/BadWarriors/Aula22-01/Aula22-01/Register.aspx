@@ -15,5 +15,5 @@
     <asp:Button ID="btnRegister" runat="server" onclick="btnRegister_Click" 
         Text="Register" />
     <br />
-    <asp:Label ID="Label4" runat="server"></asp:Label>
+    <asp:Label ID="Label4" runat="server" Visible="False"></asp:Label>
 </asp:Content>

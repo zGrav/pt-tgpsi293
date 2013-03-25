@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula22-01", "Aula22-01\Aula22-01.csproj", "{290A5193-77F5-48E7-ABC8-EBC38855EA66}"
 EndProject
 Global

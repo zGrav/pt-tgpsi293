@@ -14,35 +14,45 @@ namespace Aula22_01
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            string getCmd;
+            try
+            {
 
-            Label7.Text = Session["username"].ToString();
+                string getCmd;
 
-            GameManagement gm = new GameManagement();
+                Label7.Text = Session["username"].ToString();
 
-            gm.grabStatsParams("@username", Label7.Text);
+                GameManagement gm = new GameManagement();
 
-            getCmd = "GrabStatsHP";
-            Label1.Text = gm.grabStats(getCon, getCmd).ToString();
+                gm.grabStatsParams("@username", Label7.Text);
 
-            getCmd = "GrabStatsMoney";
-            Label2.Text = gm.grabStats(getCon, getCmd).ToString();
+                getCmd = "GrabStatsHP";
+                Label1.Text = gm.grabStats(getCon, getCmd).ToString();
 
-            getCmd = "GrabStatsAttack";
-            Label3.Text = gm.grabStats(getCon, getCmd).ToString();
+                getCmd = "GrabStatsMoney";
+                Label2.Text = gm.grabStats(getCon, getCmd).ToString();
 
-            getCmd = "GrabStatsDefense";
-            Label4.Text = gm.grabStats(getCon, getCmd).ToString();
+                getCmd = "GrabStatsAttack";
+                Label3.Text = gm.grabStats(getCon, getCmd).ToString();
 
-            getCmd = "GrabStatsWins";
-            Label5.Text = gm.grabStats(getCon, getCmd).ToString();
+                getCmd = "GrabStatsDefense";
+                Label4.Text = gm.grabStats(getCon, getCmd).ToString();
 
-            getCmd = "GrabStatsLosses";
-            Label6.Text = gm.grabStats(getCon, getCmd).ToString();
+                getCmd = "GrabStatsWins";
+                Label5.Text = gm.grabStats(getCon, getCmd).ToString();
+
+                getCmd = "GrabStatsLosses";
+                Label6.Text = gm.grabStats(getCon, getCmd).ToString();
+            }
+
+            catch (Exception ex)
+            {
+                Response.Redirect("~/Login.aspx");
+            }
         }
 
         protected void btnLogout_Click(object sender, EventArgs e)
         {
+            Session["username"] = null;
             Response.Redirect("~/Login.aspx");
         }
 
@@ -59,6 +69,11 @@ namespace Aula22_01
         protected void btnFriends_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/Friends.aspx");
+        }
+
+        protected void btnChallenge_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/Challenge.aspx");
         }
     }
 }

@@ -11,7 +11,20 @@ namespace Aula22_01
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            try
+            {
+                string dowehaveaUser = Session["username"].ToString();
 
+                if (dowehaveaUser == null)
+                {
+                    Response.Redirect("~/Login.aspx");
+                }
+            }
+
+            catch (Exception ex)
+            {
+                Response.Redirect("~/Login.aspx");
+            }
         }
 
         protected void Button1_Click(object sender, EventArgs e)

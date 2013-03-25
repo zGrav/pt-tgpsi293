@@ -35,6 +35,10 @@ namespace Aula22_01
 
             if (lg.doLogin(getCon) == true)
             {
+
+                lg.add50HPParams("@username", txtUsr.Text);
+                lg.add50HP(getCon);
+
                 Session["username"] = txtUsr.Text;
                 Response.Redirect("~/Main.aspx");
             }

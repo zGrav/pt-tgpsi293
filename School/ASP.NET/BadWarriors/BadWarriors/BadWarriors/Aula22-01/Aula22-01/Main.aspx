@@ -9,9 +9,9 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <p>
-    todo: friend list + messaging(todo), store (need to fix item 
-        adding), 
-        challenges + practice + history (todo)</p>
+    todo: friend list (tofix)+ messaging(todo), store (need to fix item 
+        adding to user), 
+        practice</p>
     <table class="style1">
         <tr>
             <td>
@@ -109,7 +109,7 @@
         </tr>
         <tr>
             <td>
-                <asp:Button ID="btnChallenge" runat="server" Text="Challenge" />
+                <asp:Button ID="btnChallenge" runat="server" Text="Challenge" OnClick="btnChallenge_Click" />
             </td>
             <td>
                 Attack:

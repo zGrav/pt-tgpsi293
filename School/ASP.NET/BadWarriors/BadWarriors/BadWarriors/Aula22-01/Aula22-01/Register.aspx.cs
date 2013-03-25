@@ -39,6 +39,7 @@ namespace Aula22_01
 
             if (lg.doRegister(getCon) == true)
             {
+                Label4.Visible = true;
                 Label4.Text = "Register successful. Redirecting to Login in 3 seconds.";
                 Thread.Sleep(3000);
                 Response.Redirect("~/Login.aspx");
@@ -46,6 +47,7 @@ namespace Aula22_01
 
             else
             {
+                Label4.Visible = true;
                 Label4.Text = "Error occurred.";
             }
         }
