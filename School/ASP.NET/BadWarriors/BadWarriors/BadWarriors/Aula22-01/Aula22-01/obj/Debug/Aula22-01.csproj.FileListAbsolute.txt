@@ -3,7 +3,6 @@ C:\Users\0103629\Desktop\Aula22-01\Aula22-01\bin\Aula22-01.pdb
 C:\Users\0103629\Desktop\Aula22-01\Aula22-01\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\0103629\Desktop\Aula22-01\Aula22-01\obj\Debug\Aula22-01.dll
 C:\Users\0103629\Desktop\Aula22-01\Aula22-01\obj\Debug\Aula22-01.pdb
-C:\Users\0103629\Downloads\BadWarriors\BadWarriors\Aula22-01\Aula22-01\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\0103629\Downloads\BadWarriors\BadWarriors\Aula22-01\Aula22-01\obj\Debug\Aula22-01.dll
 C:\Users\0103629\Downloads\BadWarriors\BadWarriors\Aula22-01\Aula22-01\bin\Aula22-01.dll
 C:\Users\0103629\Downloads\BadWarriors\BadWarriors\Aula22-01\Aula22-01\bin\Aula22-01.pdb
@@ -20,7 +19,6 @@ C:\Users\David\Downloads\BadWarriors\BadWarriors\Aula22-01\Aula22-01\obj\Debug\A
 C:\Users\David\Downloads\BadWarriors\BadWarriors\Aula22-01\Aula22-01\obj\Debug\Aula22-01.pdb
 C:\Users\0103629\Downloads\BadWarriors\Aula22-01\Aula22-01\bin\Aula22-01.dll
 C:\Users\0103629\Downloads\BadWarriors\Aula22-01\Aula22-01\bin\Aula22-01.pdb
-C:\Users\0103629\Downloads\BadWarriors\Aula22-01\Aula22-01\obj\Debug\Aula22-01.csprojResolveAssemblyReference.cache
 C:\Users\0103629\Downloads\BadWarriors\Aula22-01\Aula22-01\obj\Debug\Aula22-01.dll
 C:\Users\0103629\Downloads\BadWarriors\Aula22-01\Aula22-01\obj\Debug\Aula22-01.pdb
 C:\Users\David\Downloads\BadWarriors\Aula22-01\Aula22-01\bin\Aula22-01.dll

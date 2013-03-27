@@ -40,15 +40,43 @@ namespace Aula22_01
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            GameManagement gm = new GameManagement();
-            gm.updateStatsParams("@username", Session["username"].ToString());
+            try
+            {
+                GameManagement gm = new GameManagement();
 
-            gm.updateStatsParams("@getattack", TextBox2.Text);
-            gm.updateStatsParams("@getdefense", TextBox3.Text);
-            gm.updateStatsParams("@getprice", TextBox4.Text);
-           // gm.updateStatsParams("@getitemid", GridView1.SelectedRow.Cells[1].Text);
+                gm.grabStatsParams("@username", Session["username"].ToString());
 
-            gm.updateStats(getCon);
+                string getCmd = "GrabStatsMoney";
+                string omoney = gm.grabStats(getCon, getCmd).ToString();
+                int ownmoney;
+                int.TryParse(omoney, out ownmoney);
+
+                if (ownmoney < Convert.ToInt32(GridView1.SelectedRow.Cells[3].Text))
+                {
+                    Label5.Visible = true;
+                    Label5.Text = "This purchase cannot continue.";
+
+                    return;
+                }
+
+                gm.updateStatsParams("@username", Session["username"].ToString());
+
+                gm.updateStatsParams("@getattack", TextBox2.Text);
+                gm.updateStatsParams("@getdefense", TextBox3.Text);
+                gm.updateStatsParams("@getprice", TextBox4.Text);
+                // gm.updateStatsParams("@getitemid", GridView1.SelectedRow.Cells[1].Text);
+
+                gm.updateStats(getCon);
+
+                Label5.Visible = true;
+                Label5.Text = "Purchase complete.";
+
+            }
+            catch (Exception ex)
+            {
+                Label5.Visible = true;
+                Label5.Text = "An error occurred.";
+            }
         }
 
         protected void Button2_Click(object sender, EventArgs e)

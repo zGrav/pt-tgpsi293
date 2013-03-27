@@ -85,6 +85,13 @@ namespace Aula22_01
                 int convdef;
                 int.TryParse(def, out convdef);
 
+                if (convatk == convdef)
+                {
+                    Label2.Visible = true;
+                    Label2.Text = "Draw match, routine not executed.";
+                    return;
+                }
+
                 if (convatk > convdef)
                 {
                     Label2.Visible = true;
@@ -118,9 +125,7 @@ namespace Aula22_01
 
                     gm.logChallengeParams("@challenged", enemyID);
 
-                    long ticks = DateTime.UtcNow.Ticks - DateTime.Parse("01/01/1970 00:00:00").Ticks;
-                    ticks /= 10000000; //Convert windows ticks to seconds
-                    string timestamp = ticks.ToString();
+                    string timestamp = GetUnixTimestamp().ToString();
 
                     gm.logChallengeParamsTime("@timestamp", timestamp);
 
@@ -163,9 +168,7 @@ namespace Aula22_01
 
                     gm.logChallengeParams("@challenged", enemyID);
 
-                    long ticks = DateTime.UtcNow.Ticks - DateTime.Parse("01/01/1970 00:00:00").Ticks;
-                    ticks /= 10000000; //Convert windows ticks to seconds
-                    string timestamp = ticks.ToString();
+                    string timestamp = GetUnixTimestamp().ToString();
 
                     gm.logChallengeParamsTime("@timestamp", timestamp);
 
@@ -174,7 +177,7 @@ namespace Aula22_01
                     gm.logChallengeParams("@isloss", 1);
 
                     gm.logChallenge(getCon);
-                }
+                } 
             }
             }
             catch (Exception ex) {
@@ -192,6 +195,18 @@ namespace Aula22_01
         protected void Button3_Click(object sender, EventArgs e)
         {
             Response.Redirect("~/ChallengeHistory.aspx");
+        }
+
+        internal static int GetUnixTimestamp()
+        {
+            TimeSpan ts = (DateTime.UtcNow - new DateTime(1970, 1, 1, 0, 0, 0));
+            double unixTime = ts.TotalSeconds;
+            return (int)unixTime;
+        }
+
+        protected void Button4_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/ChallengePractice.aspx");
         }
     }
 }

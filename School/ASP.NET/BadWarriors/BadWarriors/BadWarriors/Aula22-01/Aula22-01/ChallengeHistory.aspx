@@ -12,11 +12,15 @@
             <asp:BoundField DataField="loss" HeaderText="loss" SortExpression="loss" />
         </Columns>
     </asp:GridView>
-    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT * FROM [challenges] WHERE ([id_challenger] = @id_challenger)">
+    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT * FROM [challenges] WHERE (([id_challenger] = @id_challenger) OR ([id_challenged] = @id_challenged))">
         <SelectParameters>
             <asp:SessionParameter Name="id_challenger" SessionField="ownID" Type="Int32" />
+            <asp:SessionParameter Name="id_challenged" SessionField="ownID" Type="Int32" />
         </SelectParameters>
     </asp:SqlDataSource>
+    <br />
+    <asp:Label ID="Label1" runat="server" Text="Label" Visible="False"></asp:Label>
+    <br />
     <br />
     <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Return" />
 </asp:Content>

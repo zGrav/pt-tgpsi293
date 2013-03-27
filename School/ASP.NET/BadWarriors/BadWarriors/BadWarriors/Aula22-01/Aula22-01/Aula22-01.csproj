@@ -68,12 +68,15 @@
     </Content>
     <Content Include="Challenge.aspx" />
     <Content Include="ChallengeHistory.aspx" />
+    <Content Include="ChallengePractice.aspx" />
     <Content Include="Friends.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Main.aspx" />
     <Content Include="Ranking.aspx" />
     <Content Include="Register.aspx" />
+    <Content Include="ShowFriends.aspx" />
     <Content Include="Store.aspx" />
+    <Content Include="Styles\Main.css" />
     <Content Include="Styles\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
@@ -108,6 +111,13 @@
     </Compile>
     <Compile Include="ChallengeHistory.aspx.designer.cs">
       <DependentUpon>ChallengeHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChallengePractice.aspx.cs">
+      <DependentUpon>ChallengePractice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChallengePractice.aspx.designer.cs">
+      <DependentUpon>ChallengePractice.aspx</DependentUpon>
     </Compile>
     <Compile Include="Friends.aspx.cs">
       <DependentUpon>Friends.aspx</DependentUpon>
@@ -157,6 +167,13 @@
     </Compile>
     <Compile Include="Register.aspx.designer.cs">
       <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowFriends.aspx.cs">
+      <DependentUpon>ShowFriends.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ShowFriends.aspx.designer.cs">
+      <DependentUpon>ShowFriends.aspx</DependentUpon>
     </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>

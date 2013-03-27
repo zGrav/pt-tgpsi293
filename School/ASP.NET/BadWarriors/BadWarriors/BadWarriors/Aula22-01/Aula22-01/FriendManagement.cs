@@ -12,6 +12,7 @@ namespace Aula22_01
         private SqlCommand sendRequestCmd = new SqlCommand("SendRequest");
         private SqlCommand receiveRequestCmd = new SqlCommand("ReceiveRequest");
         private SqlCommand grabUserIDCmd = new SqlCommand("GrabID");
+        private SqlCommand deleteFriendCmd = new SqlCommand("deleteFriend");
         private SqlConnection con = new SqlConnection();
 
         public int grabID(string getCon)
@@ -64,6 +65,22 @@ namespace Aula22_01
         public void receiveRequestParams(string getName, int getData)
         {
             receiveRequestCmd.Parameters.AddWithValue(getName, getData);
+        }
+
+        public void deleteFriend(string getCon)
+        {
+            con.ConnectionString = getCon;
+            deleteFriendCmd.Connection = con;
+            deleteFriendCmd.CommandType = CommandType.StoredProcedure;
+
+            con.Open();
+            deleteFriendCmd.ExecuteNonQuery();
+            con.Close();
+        }
+
+        public void deleteFriendParams(string getName, int getData)
+        {
+            deleteFriendCmd.Parameters.AddWithValue(getName, getData);
         }
     }
 

@@ -27,7 +27,7 @@
     <br />
     <asp:Label ID="Label1" runat="server" Text="Name:"></asp:Label>
     <asp:TextBox ID="TextBox1" runat="server" Enabled="False" ReadOnly="True"></asp:TextBox>
-    <br />
+    &nbsp;<br />
     <asp:Label ID="Label2" runat="server" Text="Attack:"></asp:Label>
     <asp:TextBox ID="TextBox2" runat="server" Enabled="False" ReadOnly="True"></asp:TextBox>
     <br />
@@ -41,4 +41,7 @@
     <br />
     <br />
     <asp:Button ID="Button2" runat="server" onclick="Button2_Click" Text="Return" />
+    <br />
+    <br />
+    <asp:Label ID="Label5" runat="server" Text="Label" Visible="False"></asp:Label>
 </asp:Content>

@@ -39,6 +39,9 @@ namespace Aula22_01
                 lg.add50HPParams("@username", txtUsr.Text);
                 lg.add50HP(getCon);
 
+                lg.add50MoneyParams("@username", txtUsr.Text);
+                lg.add50Money(getCon);
+
                 Session["username"] = txtUsr.Text;
                 Response.Redirect("~/Main.aspx");
             }

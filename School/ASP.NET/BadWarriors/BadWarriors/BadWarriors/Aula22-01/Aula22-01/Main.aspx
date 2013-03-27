@@ -9,9 +9,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <p>
-    todo: friend list (tofix)+ messaging(todo), store (need to fix item 
-        adding to user), 
-        practice</p>
+        todo: messaging(todo), store (need to fix item adding to user)</p>
     <table class="style1">
         <tr>
             <td>

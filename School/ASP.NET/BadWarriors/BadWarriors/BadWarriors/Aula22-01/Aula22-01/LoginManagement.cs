@@ -13,6 +13,7 @@ namespace Aula22_01
         private SqlCommand doLoginCmd = new SqlCommand("Login");
         private SqlCommand doRegisterCmd = new SqlCommand("Register");
         private SqlCommand add50HPCmd = new SqlCommand("add50HP");
+        private SqlCommand add50MoneyCmd = new SqlCommand("add50Money");
         private SqlConnection con = new SqlConnection();
 
         public bool doLogin(string getCon)
@@ -81,6 +82,22 @@ namespace Aula22_01
         public void add50HPParams(string getName, string getData)
         {
             add50HPCmd.Parameters.AddWithValue(getName, getData);
+        }
+
+        public void add50Money(string getCon)
+        {
+            con.ConnectionString = getCon;
+            add50MoneyCmd.Connection = con;
+            add50MoneyCmd.CommandType = CommandType.StoredProcedure;
+
+            con.Open();
+            add50MoneyCmd.ExecuteNonQuery();
+            con.Close();
+        }
+
+        public void add50MoneyParams(string getName, string getData)
+        {
+            add50MoneyCmd.Parameters.AddWithValue(getName, getData);
         }
     }
 }

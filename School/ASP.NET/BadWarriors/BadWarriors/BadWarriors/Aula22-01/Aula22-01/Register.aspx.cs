@@ -37,6 +37,27 @@ namespace Aula22_01
             lg.getRegisterParams("@pw", returnEncoded);
             lg.getRegisterParams("@email", txtEmail.Text);
 
+            try
+            {
+                FriendManagement fm = new FriendManagement();
+
+                fm.grabIDParams("@username", txtUsr.Text);
+
+                int getID = fm.grabID(getCon);
+
+                if (getID != 0)
+                {
+                    Label4.Visible = true;
+                    Label4.Text = "User exists.";
+                    return;
+                }
+
+            }
+            catch (Exception ex)
+            {
+                //continue
+            }
+
             if (lg.doRegister(getCon) == true)
             {
                 Label4.Visible = true;
@@ -50,6 +71,7 @@ namespace Aula22_01
                 Label4.Visible = true;
                 Label4.Text = "Error occurred.";
             }
+
         }
     }
 }

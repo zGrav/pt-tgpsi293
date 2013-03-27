@@ -13,8 +13,10 @@ namespace Aula22_01
         private string getCon = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
         FriendManagement fm = new FriendManagement();
+        FriendManagement fm2 = new FriendManagement();
 
         string getusername;
+        int userID;
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -23,7 +25,7 @@ namespace Aula22_01
 
             fm.grabIDParams("@username", getusername);
 
-            int userID = fm.grabID(getCon);
+            userID = fm.grabID(getCon);
 
             Session["ownID"] = userID;
 
@@ -35,23 +37,41 @@ namespace Aula22_01
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            if (TextBox1.Text.Length != 0)
+            try
             {
-                fm.grabIDParams("@username", getusername);
 
-                int senderID = fm.grabID(getCon);
+                if (TextBox1.Text.Length != 0)
+                {
 
-                fm.sendRequestParams("@senderid", senderID);
+                    if (getusername.Equals(TextBox1.Text))
+                    {
+                        Label2.Visible = true;
+                        Label2.Text = "You cannot add yourself.";
+                        return;
+                    }
 
-                fm.grabIDParams("@username", TextBox1.Text);
+                    fm.sendRequestParams("@senderid", userID);
 
-                int receiverID = fm.grabID(getCon);
+                    fm2.grabIDParams("@username", TextBox1.Text);
 
-                fm.sendRequestParams("@receiverid", receiverID);
+                    int receiverID = fm2.grabID(getCon);
 
-                int timestamp = GetUnixTimestamp();
+                    fm.sendRequestParams("@receiverid", receiverID);
 
-                fm.sendRequestParams("@timerequest", timestamp);
+                    int timestamp = GetUnixTimestamp();
+
+                    fm.sendRequestParams("@timerequest", timestamp);
+
+                    fm.sendRequest(getCon);
+
+                    Label2.Visible = true;
+                    Label2.Text = "Friend added successfully.";
+                }
+            }
+            catch (Exception ex)
+            {
+                Label2.Visible = true;
+                Label2.Text = "An error has occured.";
             }
         }
 
@@ -60,6 +80,16 @@ namespace Aula22_01
             TimeSpan ts = (DateTime.UtcNow - new DateTime(1970, 1, 1, 0, 0, 0));
             double unixTime = ts.TotalSeconds;
             return (int)unixTime;
+        }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/Main.aspx");
+        }
+
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/ShowFriends.aspx");
         }
     }
 }

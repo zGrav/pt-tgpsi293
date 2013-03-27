@@ -5,10 +5,12 @@
 <p>
     <asp:Label ID="Label1" runat="server" Text="Username:"></asp:Label>
 &nbsp;<asp:TextBox ID="txtUsr" runat="server"></asp:TextBox>
+    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtUsr" ErrorMessage="This field cannot be empty."></asp:RequiredFieldValidator>
 </p>
 <p>
     Password:
     <asp:TextBox ID="txtPwd" runat="server" TextMode="Password"></asp:TextBox>
+    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="txtPwd" ErrorMessage="This field cannot be empty."></asp:RequiredFieldValidator>
 </p>
 <p>
     <asp:Button ID="btnLogin" runat="server" Text="Login" 
