@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.6+" codebase="$project.Url">
+    <information>
+        <title>$project.Name</title>
+        <vendor>$project.Organization.Name</vendor>
+        <homepage href="/"/>
+		<description>$project.Description</description> 
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.6.0+" href="http://java.sun.com/products/autodl/j2se" java-vm-args="-Xms256M -Xmx256M"/>
+			$dependencies
+    </resources>
+    <security>
+		<all-permissions />
+	</security>
+    <application-desc main-class="$mainClass"/>
+</jnlp>

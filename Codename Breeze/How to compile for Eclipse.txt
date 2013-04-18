@@ -1,0 +1,7 @@
+Make sure that you have maven installed and that you can call it via command prompt, google it up if you don't know how to.
+
+Navigate to the project folder, type mvn -U -up -X clean and let it run.
+
+After it completes, type mvn eclipse:eclipse and it will generate the necessary files to import onto Eclipse and you're done!
+
+To export codename_breeze as a JAR file, make sure you select Runnable JAR file.
