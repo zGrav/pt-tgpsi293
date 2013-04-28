@@ -5,10 +5,13 @@ This program is still in a development stage, so some features might be buggy an
 It's basically a Android controller that allows you to control your device via Keyboard/Mouse (if you're root) and view your 
 device screen.
 
-It can connect via USB cable and WiFi but needs ADB to do so.
+It can connect via USB cable and WiFi but needs ADB to do so. Non-rooted devices can only connect via USB.
 
-For WiFi you must have a app that you can easily find on Market or CyanogenMod where you can just enable it on Settings->Developer Options
-Working app: https://play.google.com/store/apps/details?id=com.ryosoftware.adbw&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5yeW9zb2Z0d2FyZS5hZGJ3Il0.
+For WiFi you must have a app that you can easily find on Market or CyanogenMod where you can just enable it on Settings->Developer Options->Enable ADB over Network
+To connect to your device, pop up a command prompt, go to your ADB folder if you haven't set it on your Environment Settings, and type connect deviceip,
+if you did everything correctly, you should see that it returns connected and all you need to do is open up Codename Breeze.
+
+Working app (needs root): https://play.google.com/store/apps/details?id=com.ryosoftware.adbw&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5yeW9zb2Z0d2FyZS5hZGJ3Il0.
 
 The requirements for this program to run are:
 - Java
