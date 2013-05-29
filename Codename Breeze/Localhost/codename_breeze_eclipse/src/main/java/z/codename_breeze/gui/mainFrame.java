@@ -28,6 +28,7 @@ import java.io.IOException;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.JToolBar;
@@ -202,8 +203,8 @@ public class mainFrame extends JFrame {
 		scroll = new JScrollPane(devScreen);
 		
 		add(scroll, BorderLayout.CENTER);
-		
-		scroll.setPreferredSize(new Dimension(100, 100));
+
+		scroll.setPreferredSize(new Dimension(800, 600));
 		
 		pack();
 		
